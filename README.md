@@ -1,5 +1,5 @@
 # Personla_Portfolio
-# Professional Network Engineer Portfolio | Networking | Network Automation | Python | Linux | DevOps
+# Professional Network Engineer Portfolio | Networking | Network Automation | Python | Linux | Router/Switch Configuration
 # Welcome to my personal portfolio website.
 
 This project showcases my professional experience, technical skills, networking knowledge, network automation projects, and DevOps journey.
